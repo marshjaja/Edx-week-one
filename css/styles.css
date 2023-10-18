@@ -1,5 +1,8 @@
 * {
+
     background-color: #efeee7;
+
+
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #333333;
     margin: 0;
@@ -33,6 +36,7 @@ h2 {
 
 p {
     padding: 10px;
+
 }
 
 #main-bio,
